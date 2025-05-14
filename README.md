@@ -25,7 +25,7 @@ This enhanced system is especially effective in cases where handwriting is incon
 ---
 
 ## Project Structure
-
+```
 llama3.2-vision_Handwritten_Number_Recognition/
 │
 ├── input_images/ # Folder containing scanned answer sheet images
@@ -40,7 +40,7 @@ llama3.2-vision_Handwritten_Number_Recognition/
 ├── requirements.txt # Required packages and dependencies
 ├── README.md # Project documentation
 └── LICENSE # Project license (MIT)
-
+```
 ---
 
 ## How to run
